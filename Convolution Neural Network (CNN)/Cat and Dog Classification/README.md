@@ -29,7 +29,7 @@ Using some Data Augmentation techniques for more data and Better results.
 * Random zoom
 * Horizontal flips
 
-![image](readme_resources/data_augmentation.png)
+![image](readme_resources/data_augmentation.PNG)
 
 ### Network Parameter:
 * Rectifier Linear Unit (ReLU) - Hidden Layers
