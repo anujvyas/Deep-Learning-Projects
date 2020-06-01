@@ -37,7 +37,7 @@ Using some Data Augmentation techniques for more data and Better results.
 * Adam optimizer
 * Loss: Binary CrossEntropy
 
-![image](readme_resources/model_summary.png)
+![image](readme_resources/model_summary.PNG)
 
 ### Visualization of Model Accuracy:
 * Training Set Accuracy: 91.70%
