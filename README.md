@@ -7,7 +7,7 @@
 • The main purpose of making this repository is to keep all my Deep Learning project at one place, hence keeping my GitHub clean!<br/>
 • It looks good, isn't it?
 
-## Overview
+## Overview of this repository
 • This repository consists of all my Deep Learning Projects.<br/>
 • Link to the datasets are provided in each of the folders above, and as the solution to the problem statements.
 
